@@ -1,6 +1,6 @@
 
 <h1 align="center">Hola👋, I'm Ishani Dey</h1>
-<h3 align="center">A passionate developer from Tezpur, Assam</h3>
+<h3 align="center">A passionate developer from Tezpur, Assam currently residing in Bikaner, Rajasthan</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4f76db7a5636836e6d49345faef0413db6ab6ac172f7529afd30abf3631b9ba5/68747470733a2f2f726573756c74706564696162642e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30382f6d652e676966">
 
 - 🔭 I’m currently working on **building a full stack photography website**
