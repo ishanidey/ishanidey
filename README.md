@@ -1,20 +1,11 @@
 <h1 align="center">Hola👋, I'm Ishani Dey</h1>
-<h3 align="center">A passionate developer from Tezpur, Assam</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif">
-
-- 🔭 I’m currently working on **building a full stack photography website**
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👯 I’m looking to collaborate on **on web development projects or anything which can help me learn new skills**
-
-- 🤝 I’m looking for help with **keeping up with constant changes in React documentation😅**
-
-- 💬 Ask me about **my projects or anything 😊**
-
 - 📫 How to reach me **20ec01038@iitbbs.ac.in**
 
-- ⚡ Fun fact **I love fixing bugs**
+- ⚡ Fun fact **i love fixing bugs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
